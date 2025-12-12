@@ -1,0 +1,11 @@
+{
+  "name": "com.studio602.dsu-framework",
+  "version": "1.0.0",
+  "displayName": "Dsu Framework",
+  "description": "A reusable Unity framework for game development.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Jintaek Seo",
+    "email": "jintaeks@gmail.com"
+  }
+}
